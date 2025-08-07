@@ -1,0 +1,36 @@
+﻿using ImmersionAI.API.api.Models;
+using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Reflection.Emit;
+
+
+namespace ImmersionAI.API.api.Data
+{
+    public class ImmersionDbContext : DbContext
+    {
+        public ImmersionDbContext(DbContextOptions<ImmersionDbContext> options)
+            : base(options)
+        {
+        }
+
+        // Your entity tables
+        public DbSet<User> Users { get; set; }
+        public DbSet<YourEntity> YourEntities { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // Example: make Email unique
+            modelBuilder.Entity<User>()
+                .HasIndex(u => u.Email)
+                .IsUnique();
+
+            // Configure YourEntity table name
+            modelBuilder.Entity<YourEntity>()
+                .ToTable("YourEntities");
+        }
+    }
+
+
+}

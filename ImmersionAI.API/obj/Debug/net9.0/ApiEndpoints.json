@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ImmersionAI.API.api.Controllers.ChatController",
+    "Method": "Post",
+    "RelativePath": "api",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "ImmersionAI.API.api.Controllers.ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\services\\deepseekservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\services\\deepseekservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\services\\promptbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\services\\promptbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\systempromptenglish.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\systempromptenglish.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\systempromptspanish.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\systempromptspanish.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\services\\contextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\services\\contextservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\helpers\\messageholdertempswitchtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\helpers\\messageholdertempswitchtodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\services\\contextrefreshworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\services\\contextrefreshworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\data\\immersiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\data\\immersiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\models\\outputmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\models\\outputmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\models\\chatturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\models\\chatturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\immersionai.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:immersionai.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\immersionai.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:immersionai.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\scripts\\startup.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:scripts\\startup.ps1||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\helpers\\jwttokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|c:\\users\\myers\\onedrive\\documents\\_projects\\immersionai.api\\api\\models\\vocabword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{349403C3-37AF-427D-8404-F3307A61D166}|ImmersionAI.API.csproj|solutionrelative:api\\models\\vocabword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeepSeekService.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Services\\DeepSeekService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\DeepSeekService.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Services\\DeepSeekService.cs",
+              "RelativeToolTip": "api\\Services\\DeepSeekService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwBYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T22:10:02.16Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromptBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Services\\PromptBuilder.cs",
+              "RelativeDocumentMoniker": "api\\Services\\PromptBuilder.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Services\\PromptBuilder.cs",
+              "RelativeToolTip": "api\\Services\\PromptBuilder.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:43:52.541Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\appsettings.json",
+              "RelativeDocumentMoniker": "api\\appsettings.json",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\appsettings.json",
+              "RelativeToolTip": "api\\appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvxEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T00:57:58.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContextService.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Services\\ContextService.cs",
+              "RelativeDocumentMoniker": "api\\Services\\ContextService.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Services\\ContextService.cs",
+              "RelativeToolTip": "api\\Services\\ContextService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:42:40.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemPromptEnglish.txt",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\SystemPromptEnglish.txt",
+              "RelativeDocumentMoniker": "api\\SystemPromptEnglish.txt",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\SystemPromptEnglish.txt",
+              "RelativeToolTip": "api\\SystemPromptEnglish.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-04T02:22:26.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Program.cs",
+              "RelativeDocumentMoniker": "api\\Program.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Program.cs",
+              "RelativeToolTip": "api\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAArwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:55:31.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SystemPromptSpanish.txt",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\SystemPromptSpanish.txt",
+              "RelativeDocumentMoniker": "api\\SystemPromptSpanish.txt",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\SystemPromptSpanish.txt",
+              "RelativeToolTip": "api\\SystemPromptSpanish.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-07T10:58:14.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageHolderTempSwitchToDB.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Helpers\\MessageHolderTempSwitchToDB.cs",
+              "RelativeDocumentMoniker": "api\\Helpers\\MessageHolderTempSwitchToDB.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Helpers\\MessageHolderTempSwitchToDB.cs",
+              "RelativeToolTip": "api\\Helpers\\MessageHolderTempSwitchToDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T23:11:21.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "api\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "api\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAnwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:45:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImmersionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Data\\ImmersionDbContext.cs",
+              "RelativeDocumentMoniker": "api\\Data\\ImmersionDbContext.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Data\\ImmersionDbContext.cs",
+              "RelativeToolTip": "api\\Data\\ImmersionDbContext.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAIwDQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:31:07.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContextRefreshWorker.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Services\\ContextRefreshWorker.cs",
+              "RelativeDocumentMoniker": "api\\Services\\ContextRefreshWorker.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Services\\ContextRefreshWorker.cs",
+              "RelativeToolTip": "api\\Services\\ContextRefreshWorker.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:44:39.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "api\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "api\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T21:56:31.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OutputModels.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Models\\OutputModels.cs",
+              "RelativeDocumentMoniker": "api\\Models\\OutputModels.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Models\\OutputModels.cs",
+              "RelativeToolTip": "api\\Models\\OutputModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:31:26.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChatTurn.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Models\\ChatTurn.cs",
+              "RelativeDocumentMoniker": "api\\Models\\ChatTurn.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Models\\ChatTurn.cs",
+              "RelativeToolTip": "api\\Models\\ChatTurn.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:35:05.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImmersionAI.API",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\ImmersionAI.API.csproj",
+              "RelativeDocumentMoniker": "ImmersionAI.API.csproj",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\ImmersionAI.API.csproj",
+              "RelativeToolTip": "ImmersionAI.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T03:16:33.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ImmersionAI.API.csproj",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\ImmersionAI.API.csproj",
+              "RelativeDocumentMoniker": "ImmersionAI.API.csproj",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\ImmersionAI.API.csproj",
+              "RelativeToolTip": "ImmersionAI.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T01:03:59.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "startup.ps1",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\scripts\\startup.ps1",
+              "RelativeDocumentMoniker": "scripts\\startup.ps1",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\scripts\\startup.ps1",
+              "RelativeToolTip": "scripts\\startup.ps1",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-04T01:55:39.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VocabWord.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Models\\VocabWord.cs",
+              "RelativeDocumentMoniker": "api\\Models\\VocabWord.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Models\\VocabWord.cs",
+              "RelativeToolTip": "api\\Models\\VocabWord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T01:33:22.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JWTTokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Helpers\\JWTTokenHelper.cs",
+              "RelativeDocumentMoniker": "api\\Helpers\\JWTTokenHelper.cs",
+              "ToolTip": "C:\\Users\\myers\\OneDrive\\Documents\\_Projects\\ImmersionAI.API\\api\\Helpers\\JWTTokenHelper.cs",
+              "RelativeToolTip": "api\\Helpers\\JWTTokenHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T00:59:18.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+﻿using Dapper;
+using ImmersionAI.API.api.Models;
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace ImmersionAI.API.api.Repositories
+{
+
+    public class UserRepository : IUserRepository
+    {
+        private readonly IDbConnection _db;
+        public UserRepository(IDbConnection db) => _db = db;
+
+        public async Task<UserProfile> GetProfileAsync(Guid userId)
+        {
+            const string userSql = @"
+                SELECT id, username, proficiency_level
+                  FROM users
+                 WHERE id = @Id;
+                SELECT id, word, is_mastered, grammar_pattern
+                  FROM vocab_words
+                 WHERE user_id = @Id;
+                SELECT id, message, timestamp, origin
+                  FROM chat_history
+                 WHERE user_id = @Id;
+            ";
+            using var multi = await _db.QueryMultipleAsync(userSql, new { Id = userId });
+            var user = await multi.ReadSingleAsync<UserProfile>();
+            user.MasteredWords = (await multi.ReadAsync<VocabWord>()).ToList();
+            user.ChatHistory = (await multi.ReadAsync<ChatTurn>()).ToList();
+            return user;
+        }
+
+        public async Task<IEnumerable<UserProfile>> GetActiveUsersAsync()
+        {
+            const string sql = @"
+                SELECT DISTINCT u.id, u.username, u.proficiency_level
+                  FROM users u
+                  JOIN chat_history c ON c.user_id = u.id
+                 WHERE c.timestamp > NOW() - INTERVAL '1 hour';
+            ";
+            return await _db.QueryAsync<UserProfile>(sql);
+        }
+
+        public async Task AddVocabWordAsync(VocabWord word)
+        {
+            const string sql = @"
+                INSERT INTO vocab_words
+                  (id, user_id, word, is_mastered, grammar_pattern)
+                VALUES
+                  (@Id, @UserId, @Word, @IsMastered, @GrammarPattern);
+            ";
+            await _db.ExecuteAsync(sql, word);
+        }
+
+        public async Task AddChatTurnAsync(ChatTurn turn)
+        {
+            const string sql = @"
+                INSERT INTO chat_history
+                  (id, user_id, message, timestamp, origin)
+                VALUES
+                  (@Id, @UserId, @Message, @Timestamp, @Origin);
+            ";
+            await _db.ExecuteAsync(sql, turn);
+        }
+    }
+
+}
